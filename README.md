@@ -5,3 +5,6 @@ Generator pozwala nam na zmianę następujących parametrów:
   - Długość czasu stanu włączenia/wyłączenia źródeł obsługiwanego ruchu
   - Szybkość generacji pakietów
   - Czas symulacji
+
+
+Plik wynikowy symulacji po uruchomieniu skryptu znajdzie się w folderze roboczym pod nazwą dane.csv.
